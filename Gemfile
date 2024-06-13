@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 
-ruby "3.1.2", :engine => "ruby", :engine_version => "3.1.2"
-
+ruby "3.1.2",
 # Specify the Rubygems version
 rubygems_version "~> 3.3.22"
 
